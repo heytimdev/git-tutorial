@@ -1,2 +1,2 @@
 console.log("Je vien de Ghana");
-console.log("Version1")
+console.log("Version2")
